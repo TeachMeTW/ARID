@@ -42,5 +42,5 @@ We learned how to utilize OpenCV and web frameworks to create an ARUCO detector 
 - Autoangle adjustment on image
 
 ## Members
-- Robin Lee Simpson | @TeachMeTW
-- Yuheon Joh (John J Doe) | @leyuheon
+- Robin Lee Simpson | @TeachMeTW | Backend/OpenCV
+- Yuheon Joh (John J Doe) | @leyuheon | FrontEnd/User
