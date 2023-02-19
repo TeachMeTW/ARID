@@ -1,10 +1,10 @@
 # ARID
 
 Instant access to IDs or information from a code. 
-We redefined personal identification by combining AR. 
-No need to worry about losing ID Card
-No need to worry about security
-We got you covered. 
+- We redefined personal identification by combining AR. 
+- No need to worry about losing ID Card
+- No need to worry about security
+- We got you covered. 
 
 
 ## Inspiration
@@ -42,5 +42,5 @@ We learned how to utilize OpenCV and web frameworks to create an ARUCO detector 
 - Autoangle adjustment on image
 
 ## Members
-- Robin Lee Simpson
-- Yuheon Joh (John J Doe)
+- Robin Lee Simpson | @TeachMeTW
+- Yuheon Joh (John J Doe) | @leyuheon
