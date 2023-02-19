@@ -6,6 +6,7 @@ Instant access to IDs or information from a code.
 - No need to worry about security
 - We got you covered. 
 
+##### https://devpost.com/software/ar-info
 
 ## Inspiration
 Having used OpenCV for several projects, ranging mostly from machine learning detections, one of the things we have never done was anything AR related. We thought this was one possible use case of utilizing AR codes; showing ID's so that doctors, officers, and users would have a quick and easy access to their information. We also added a verification step for privacy protection in the form of twilio.
