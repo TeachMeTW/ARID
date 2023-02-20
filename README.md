@@ -14,6 +14,8 @@ Having used OpenCV for several projects, ranging mostly from machine learning de
 ## What it does
 A user uploads their ID into the backend via a frontend user prompt. The image is stored alongside their names. An ARUCO code is generated to pair with the image. The user can point the code towards the screen where they will be sent a verification text. If not verified, the program will not screen the ARUCO code. If verified, the camera takes the ARUCO code and transposes the ID/image via homography transformation. There is no limit to how many it can display or what orientation or size.
 
+Note; future expansion can include video and even 3D representation of data -- the possibilites are limitless.
+
 ## How we built it
 Our first task was to tackle the hard thing first: the backend and the actual AR processing. We played around in python with opencv to create an app that takes still frame images and checks for any matching ARUCO codes. Once that was done, we decided to implement it into a web framework so it is accessible by any device. We implemented a model for ID's in Django alongside a camera module and a user upload module. Certain things were needed to be changed as OpenCV did not function ideally in Django so we had to come up with a work-around in our detection function. Lastly, after it was implemented, we decided to host on AWS/Heroku for a demo.
 
