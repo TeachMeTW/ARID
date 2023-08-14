@@ -46,4 +46,4 @@ We learned how to utilize OpenCV and web frameworks to create an ARUCO detector 
 
 ## Members
 - Robin Lee Simpson | @TeachMeTW | Backend/OpenCV
-- Yuheon Joh (John J Doe) | @leyuheon | FrontEnd/User
+- Jay Chong | @kizumi | FrontEnd
